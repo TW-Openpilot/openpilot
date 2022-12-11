@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Version 0.8.17 (2022-11-21)
+=======
+new branch for cloudj
+
+Version 0.8.17 (2022-XX-XX)
+>>>>>>> 9c9307c7... cloudj test
 ========================
 * New driving model
   * Internal feature space information content increased tenfold during training (to ~700 bits), which makes the model dramatically more accurate
